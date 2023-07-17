@@ -1,0 +1,30 @@
+body {
+    margin: 20px;
+    color: #2b2839;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#maindiv {
+    display:flex;
+    width: 800px;
+    background-color: #ddebf8;
+    justify-content: space-around;
+    border-bottom: 16px solid #d8cefe;
+    padding: 20px;
+    margin: 100px auto;
+}
+
+#myimg {
+    width: 300px;
+    height: 300px;
+    border: 4px solid plum;
+}
+
+#textblock {
+    border: 4px solid plum;
+    text-align: center;
+    margin: auto 0;
+    font-size: 28px;
+    background-color: #d8cefe;
+    padding: 0 8px;
+}
+
